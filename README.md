@@ -1,1 +1,2 @@
-# PP_Music_store_data_analysis
+Music store data analysis using MySQL
+
