@@ -1,6 +1,6 @@
 #Music store data analysis using MySQL
 
-We will be analyzing the dataset with SQL and help the store understand its business growth by answering some questions.
+We will be analyzing the dataset with MySQL and help the store understand its business growth by answering some questions.
 
 Schema
 
